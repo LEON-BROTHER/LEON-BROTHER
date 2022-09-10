@@ -4,4 +4,4 @@ So eh yeah I'm some random coder for FNF stuff and I'm making a funny modpack ca
 Well anyways I like rocks and sticks
 cya!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEON-BROTHER)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEON-BROTHER&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
