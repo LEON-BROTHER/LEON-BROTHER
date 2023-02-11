@@ -1,7 +1,7 @@
 <h1>That's me</h1>
 
 Hello there and welcome!<br>
-So eh yeah I'm some random coder for FNF and other stuff and I'm making a funny modpack called: "Friday Night Funkin' Mod Collection".<br>
+So eh yeah I'm some random coder for FNF and other stuff and I'm working on a new FNF Online project.<br>
 Cya!<br>
 
 <h2>My Language Skills</h2>
