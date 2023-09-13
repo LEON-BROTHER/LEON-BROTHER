@@ -18,4 +18,4 @@ So I'm just some random dude that can code
 
 ![Anurag's GitHub stats](https://github-readme-stats-kf6c.vercel.app/api?username=leon-brother&show_icons=true&theme=radical)
 <br>
-![Top Langs](https://github-readme-stats-kf6c.vercel.app/api/top-langs/?username=leon-brother&theme=radical)
+![Top Langs](https://github-readme-stats-kf6c.vercel.app/api/top-langs/?username=leon-brother&theme=radical&langs_count=10)
