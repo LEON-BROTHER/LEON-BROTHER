@@ -1,7 +1,7 @@
 <h1>That's me</h1>
 
 Hello there and welcome!<br>
-So I'm just some random dude that can code
+So I'm just some random dude that can code :trollface:
 <br>
 
 <h2>My Language Skills</h2>
