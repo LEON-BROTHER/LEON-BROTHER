@@ -16,6 +16,6 @@ So I'm just some random dude that can code :trollface:
 
 <h2>My Stats</h2><br>
 
-![Anurag's GitHub stats](https://github-readme-stats-kf6c.vercel.app/api?username=leon-brother&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-kf6c.vercel.app/api?username=leon-brother&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical)
 <br>
 ![Top Langs](https://github-readme-stats-kf6c.vercel.app/api/top-langs/?username=leon-brother&theme=radical&langs_count=10)
